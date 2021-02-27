@@ -1,4 +1,4 @@
-# Unity AWS Services by Square Beam
+# Unity AWS SDK by Square Beam
 
 ### [Link to the Asset Store](https://assetstore.unity.com/packages/tools/network/aws-sdk-by-square-beam-184958)
 
